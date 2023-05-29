@@ -3,12 +3,13 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	background-color: #fff;
+
 }
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
+	background-color: #fff;
 }
 a {
 	text-decoration: none;
